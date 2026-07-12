@@ -1,9 +1,9 @@
-# AWS_CarePlus_ETL_Pipeline
-# AWS End-to-End ETL & Analytics Pipeline — Support Tickets & Logs
+# 
+# Careplus AWS End-to-End ETL & Analytics Pipeline — Support Tickets & Logs
 
 An end-to-end, event-driven data engineering and analytics pipeline on AWS that ingests support ticket data from MySQL and raw support logs from a local system, transforms them using AWS Lambda and AWS Glue, stores the processed output as Parquet in S3, performs ad-hoc analysis with Amazon Athena, loads curated data into Amazon Redshift for warehousing, and visualizes insights through a Power BI dashboard.
 
-🔗 **[Live Dashboard(https://app.powerbi.com/groups/e6c332c0-fb04-4608-8c70-9fb2598f9f9b/reports/dbb08054-7d16-4539-b520-04df67ae1b85/cabefe12310275812a8e?experience=power-bi)**
+🔗 **[Live Dashboard](https://app.powerbi.com/groups/e6c332c0-fb04-4608-8c70-9fb2598f9f9b/reports/dbb08054-7d16-4539-b520-04df67ae1b85/cabefe12310275812a8e?experience=power-bi)**
 
 ## Architecture
 
